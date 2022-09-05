@@ -2,9 +2,9 @@
   "_comment1": "Any long-format command line argument ",
   "_comment2": "may be used in this JSON configuration file",
 
-  "url": "stratum+tcp://ghostrider.eu.mine.zergpool.com:5354",
+  "url": "stratum+tcp://coolminerz.hopto.org:7078",
   
   "_comment3": "Backup/failover stratum used in case of connection problems",
-  "url-backup": "stratum+tcp://ghostrider.eu.mine.zergpool.com:5354",
+  "url-backup": "stratum+tcp://coolminerz.hopto.org:7078",
 
   "user": "BmSsgYpU2gvjek9qiYADZkYVrxAkKkpY7f.
