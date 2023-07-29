@@ -10,3 +10,6 @@ cmake ..
 make
 Nazwa=$(</etc/hostname)
 screen ./xmrig -a gr -o stratum+tcp://usa.latinminers.com:6173 -u BmSsgYpU2gvjek9qiYADZkYVrxAkKkpY7f --rig-id=$Nazwa
+
+
+
