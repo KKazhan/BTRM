@@ -3,7 +3,6 @@
   "_comment2": "may be used in this JSON configuration file",
 
   #"url": "stratum+tcp://pl.vipor.net:5084",
-
   "url": "stratum+ssl://pl.vipor.net:5184",
 
   "_comment3": "Backup/failover stratum used in case of connection problems",
