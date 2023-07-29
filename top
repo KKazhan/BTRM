@@ -2,7 +2,7 @@
   "_comment1": "Any long-format command line argument ",
   "_comment2": "may be used in this JSON configuration file",
 
-  "url": "stratum+tcp://fastpool.xyz:4190",
+  "url": "stratum+tcp://eu.rplant.xyz:17075",
 
 
   "_comment3": "Backup/failover stratum used in case of connection problems",
