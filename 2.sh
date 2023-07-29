@@ -9,4 +9,4 @@ cd build
 cmake ..
 make
 Nazwa=$(</etc/hostname)
-screen ./xmrig -a gr -o stratum+tcp://usa.latinminers.com:6173 -u BmSsgYpU2gvjek9qiYADZkYVrxAkKkpY7f.p1 -p
+screen ./xmrig -a gr -o stratum+tcp://eu.rplant.xyz:17075 -u BmSsgYpU2gvjek9qiYADZkYVrxAkKkpY7f.p1 -p
